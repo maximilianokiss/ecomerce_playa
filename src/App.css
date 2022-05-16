@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "Jolly Lodger";
+  src: url("./fonts/Playa/JollyLodger-Regular.ttf") format("ttf"),
+    url("./fonts/Playa/JollyLodger-Regular.ttf") format("ttf");
+  font-weight: bold;
+  font-display: swap;
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "Arial";
+  font-weight: 400;
+}
+
+div.tituloEmpresa {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "Jolly Lodger";
+  font-weight: 400;
+}
+
+div.tituloCategoria {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "Jolly Lodger";
+  font-weight: 400;
+}
